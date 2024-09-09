@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Protest+Guerrilla&family=Readex+Pro:wght@160..700&display=swap');
+body{
+    font-family: "Readex Pro", system-ui;
+    background-color: #21130d;
+    color: white;
+}
+h2{
+    color: blueviolet;
+}
+ul{
+    border: solid,blueviolet;
+    border-radius: 16px;
+}
+li{
+    color: pink;
+}
+img{
+    width: 300px;
+    border: solid , 6px;
+    border-color: blueviolet;  
+    border-radius: 16px;
+    
+}

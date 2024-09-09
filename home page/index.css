@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Protest+Guerrilla&display=swap');
+body{
+    font-family: "Mochiy Pop One", sans-serif;
+    background-color: #154c79;
+    color: white;
+}
+div.gtp{
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
+button{
+background-color: #eeeee4;
+font-family: "Mochiy Pop One", sans-serif;
+border:solid , white;
+border-radius: 16px;
+border-width: 2px;
+width: 200px;
+}
+b{
+    color: blueviolet;
+    text-decoration: underline;
+}
+b.b{
+    text-decoration: none;
+    color: red;
+}
+a.a{
+    text-decoration: none;
+    color: blueviolet;
+}
+img{
+    width: 300px;
+    border: solid , 6px;
+    border-color: blueviolet;  
+    border-radius: 16px;
+    
+}
+sub{
+    font-size: 10px;
+    color: pink;
+}
